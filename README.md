@@ -1,48 +1,39 @@
-<h1 align="left">Olá 👋 Como vai?</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=150&section=header&text=Gustavo+Gobato&fontSize=30&fontColor=f3f3f3&animation=twinkling&fontAlignY=35"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0284c7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Gustavo+Gobato+🚀;Eu+Tenho+16+Anos;Eu+Sou+De+São+Paulo,+SP;Eu+Sou+Desenvolvedor+Web;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
 
-###
 
-<p align="left">Sou Gustavo Gobato, desenvolvedor web em início de jornada 🚀, movido por uma paixão real pela tecnologia 💻 e pelo que ela pode transformar na vida das pessoas 🌍. Estudo com disciplina as bases sólidas do desenvolvimento web — HTML, CSS, JavaScript e Python 📚 — sempre buscando entender o “porquê” de cada linha de código 🔍, e não apenas o “como”.<br><br>Tenho foco em lógica de programação, estrutura de dados, boas práticas de código e experiência do usuário 🧠. Me dedico a aprender arquitetura de sistemas, versionamento com Git, integração entre front-end e back-end, além de conceitos fundamentais de segurança e banco de dados ⚙️🛡️. Estou sempre codando, testando, quebrando a cabeça e melhorando — porque é assim que se evolui de verdade.<br><br>Já idealizei e desenvolvi projetos com impacto social como o Ártemis 21 e o Lumen Via 🌱, soluções criadas com o propósito de levar sustentabilidade, mobilidade e dignidade para regiões periféricas 🏙️. Acredito que a tecnologia, quando guiada por valores e propósito, se torna um instrumento de transformação social poderosa ✨.<br><br>Quero me especializar em frameworks modernos, metodologias ágeis, automação e escalabilidade de soluções 💡📈. Meu objetivo é me tornar um desenvolvedor completo — que entende o sistema de ponta a ponta — e no futuro liderar equipes com visão técnica, ética e colaborativa 🤝.<br><br>Com fé 🙏, coragem 💪, foco 🎯 e humildade 🤲, sigo firme nessa caminhada. Sou Gustavo Gobato — e o que estou construindo é só o começo.</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-gobato-💡-6ab68836b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/thegobato/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoGobato&show_icons=true&count_private=true&hide_border=true&title_color=0284c7&icon_color=0284c7&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Gobato github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGobato&layout=compact&hide_border=true&title_color=0284c7&text_color=0284c7&bg_color=0d1117" />
 </div>
 
-###
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoGobato&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">ESTUDANDO:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GustavoGobato&theme=darkhub&row=2&margin-w=15&margin-h=15" />
+</p>
 
-###
+## Principais Habilidades:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+## Ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
-###
-
-<p align="left"></p>
-
-###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/1d/0e/ed/1d0eedea3e7ced1cff1db93e7bb6986f.jpg"  />
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GustavoGobato}/count.svg" /></p> 
+<br></div>
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=120&section=footer"/>
+ 
 </div>
 
-###
+
+
