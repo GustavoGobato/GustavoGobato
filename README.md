@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoGobato&show_icons=true&count_private=true&hide_border=true&title_color=48D1CC&icon_color=48D1CC&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Gobato github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoGobato&show_icons=true&count_private=false&hide_border=true&title_color=48D1CC&icon_color=48D1CC&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Gobato github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGobato&layout=compact&hide_border=true&title_color=48D1CC&text_color=48D1CC&bg_color=0d1117" />
 </div>
 
